@@ -1,0 +1,139 @@
+# Translation of Themes - Fashion Icon in Vietnamese
+# This file is distributed under the same license as the Themes - Fashion Icon package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-12 09:34:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Fashion Icon\n"
+
+#: functions.php:962
+msgid " Fashion Icon | Developed By "
+msgstr "Fashion Icon | Phát triển bởi"
+
+#: functions.php:964
+msgid "https://wordpress.org/"
+msgstr "https://vi.wordpress.org/"
+
+#: functions.php:964
+msgid " Powered by %s"
+msgstr "Được cung cấp bởi %s"
+
+#: functions.php:594
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:593
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:592
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "bật"
+
+#: functions.php:483
+msgid "Menu"
+msgstr "Menu"
+
+#: functions.php:338
+msgid "This is the home page layouts for your blog."
+msgstr "Đây là bố cục trang chủ cho blog của bạn."
+
+#: functions.php:337
+msgid "Home Page Layouts"
+msgstr "Bố cục trang chủ"
+
+#: functions.php:316
+msgid "Home Page Layout"
+msgstr "Bố cục trang chủ"
+
+#: functions.php:303
+msgid "This is the header layouts for your blog."
+msgstr "Đây là bố cục header cho blog của bạn."
+
+#: functions.php:302
+msgid "Header Layouts"
+msgstr "Bố cục header"
+
+#: functions.php:281
+msgid "Header Layout"
+msgstr "Bố cục header"
+
+#: functions.php:261
+msgid "Primary color of the theme."
+msgstr "Màu sắc chính của giao diện."
+
+#: functions.php:260
+msgid "Primary Color"
+msgstr "Màu chính"
+
+#: functions.php:237
+msgid "Change the font size of your site."
+msgstr "Thay đổi cỡ chữ của trang web của bạn."
+
+#: functions.php:236
+msgid "Font Size"
+msgstr "Cỡ chữ"
+
+#: functions.php:214
+msgid "Secondary font of the site."
+msgstr "Phông chữ thứ hai của trang web."
+
+#: functions.php:213
+msgid "Secondary Font"
+msgstr "Phông chữ thứ hai"
+
+#: functions.php:192
+msgid "Primary font of the site."
+msgstr "Phông chữ chính của trang web."
+
+#: functions.php:191
+msgid "Primary Font"
+msgstr "Phông chữ chính"
+
+#: functions.php:171
+msgid "Typography"
+msgstr "Typography"
+
+#: functions.php:156
+msgid "Change the font size of your site title."
+msgstr "Thay đổi kích thước phông chữ của tiêu đề trang web của bạn."
+
+#: functions.php:155
+msgid "Site Title Font Size"
+msgstr "Kích thước phông chữ tiêu đề trang web"
+
+#: functions.php:133
+msgid "Site title and tagline font."
+msgstr "Phông chữ tiêu đề trang và tagline."
+
+#: functions.php:132
+msgid "Site Title Font"
+msgstr "Phông chữ tiêu đề trang web"
+
+#: functions.php:103
+msgid "%1$sDocumentation Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLiên kết tài liệu:%2$s %3$sBấm vào đây.%4$s"
+
+#: functions.php:101
+msgid "%1$sDemo Link:%2$s %3$sClick here.%4$s"
+msgstr "%1$sLiên kết demo:%2$s %3$sBấm vào đây.%4$s"
+
+#: functions.php:86
+msgid "Demo & Documentation"
+msgstr "Demo và hướng dẫn"
+
+#. Author of the theme
+#: functions.php:963
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
